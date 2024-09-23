@@ -1,0 +1,15 @@
+/* navber style */
+.nav-container{
+    background-color: #F9F7F3;
+    height: 120px;
+}
+
+.btn-blog{
+    height: 50px;
+    width: 110px;
+    background-color:#B4F461 ;
+    font-size: 20px;
+    font-weight: 600px;
+    padding: 12px;
+    justify-items: center;
+}
