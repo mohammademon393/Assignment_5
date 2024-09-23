@@ -1,15 +1,47 @@
 /* navber style */
 .nav-container{
     background-color: #F9F7F3;
-    height: 120px;
+    height: 100px;
 }
 
 .btn-blog{
     height: 50px;
     width: 110px;
     background-color:#B4F461 ;
+    margin-top: 24px;
+    text-align: center;
+    padding: 8px;
+    border-radius: 12px;
+    
+}
+.nav-btn{
     font-size: 20px;
     font-weight: 600px;
-    padding: 12px;
-    justify-items: center;
+    
 }
+
+/* sart benner */
+.btn-benner{
+    background-color: #B4F461;
+    border-radius: 16px;
+}
+
+/* Main part start */
+.section-1{
+    height:455px ;
+    width: 1140px;
+    margin-left: 150px;
+    margin-top: 32px;
+}
+.Noakhali-img{
+    height:389px;
+    width: 100%;
+}
+.Noakhali-dinate{
+    width: 50%;
+    padding-left: 32px;
+}
+.btn-donate{
+    background-color: #B4F461;
+}
+
