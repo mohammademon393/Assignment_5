@@ -1,7 +1,18 @@
+/* Font  */
+
+
+.lexend {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
 /* navber style */
 .nav-container{
-    background-color: #F9F7F3;
     height: 100px;
+    background-color: #F9F7F3;
+    
 }
 
 .btn-blog{
