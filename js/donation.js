@@ -16,7 +16,7 @@ document.getElementById('donate-btn')
         
         document.getElementById('adding-donation').innerText = newBalance; 
 
-        alert('Add money Sucssecsfully');
+        
 
         
     }
